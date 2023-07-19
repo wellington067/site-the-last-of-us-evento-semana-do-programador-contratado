@@ -5,8 +5,12 @@
 ## site the-last-of-us
 O evento consistiu na criação de uma pagina web com a temática da serie the last of us.
 
-<!--functions:
+functions:
 <ul>
+    <li>quando clica nos pontos no canto inferior da tela altera a imagem</li>
     <li></li>
-    <li></li>
-</ul>-->
+</ul>
+
+observações:
+
+ainda irei implementar mais funcionalidades a esse projeto, porem no momento to bastante ocupado
